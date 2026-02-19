@@ -10,3 +10,4 @@ class BankAccount:
 account = BankAccount(1000)
 account.deposit(500)
 print(account.get_balance())
+
